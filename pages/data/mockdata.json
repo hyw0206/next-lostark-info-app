@@ -1,0 +1,273 @@
+{
+  "0": {
+    "Element_000": {
+      "type": "NameTagBox",
+      "value": "<P ALIGN='CENTER'><FONT COLOR='#E3C7A1'>+19 마수의 사멸 검</FONT></P>"
+    },
+    "Element_001": {
+      "type": "ItemTitle",
+      "value": {
+        "bEquip": 0,
+        "leftStr0": "<FONT SIZE='12'><FONT COLOR='#E3C7A1'>고대 검</FONT></FONT>",
+        "leftStr1": "<FONT SIZE='14'>품질</FONT>",
+        "leftStr2": "<FONT SIZE='14'>아이템 레벨 1580 (티어 3)</FONT>",
+        "qualityValue": 98,
+        "rightStr0": "<FONT SIZE='12'><FONT COLOR='#FFD200'>장착중</FONT></FONT>",
+        "slotData": {
+          "advBookIcon": 0,
+          "battleItemTypeIcon": 0,
+          "cardIcon": false,
+          "friendship": 0,
+          "iconGrade": 6,
+          "iconPath": "https://cdn-lostark.game.onstove.com/efui_iconatlas/bl_item/bl_item_165.png",
+          "imagePath": "",
+          "islandIcon": 0,
+          "rtString": "",
+          "seal": false,
+          "temporary": 0,
+          "town": 0,
+          "trash": 0
+        }
+      }
+    },
+    "Element_002": {
+      "type": "SingleTextBox",
+      "value": "<FONT SIZE='12'>블레이드 전용</FONT>"
+    },
+    "Element_003": {
+      "type": "SingleTextBox",
+      "value": "<FONT SIZE='12'>캐릭터 귀속됨</FONT>"
+    },
+    "Element_004": {
+      "type": "MultiTextBox",
+      "value": "|<font color='#C24B46'>거래 불가</font>"
+    },
+    "Element_005": {
+      "type": "ItemPartBox",
+      "value": {
+        "Element_000": "<FONT COLOR='#A9D0F5'>기본 효과</FONT>",
+        "Element_001": "무기 공격력 +48194"
+      }
+    },
+    "Element_006": {
+      "type": "ItemPartBox",
+      "value": {
+        "Element_000": "<FONT COLOR='#A9D0F5'>추가 효과</FONT>",
+        "Element_001": "추가 피해 +29.21%"
+      }
+    },
+    "Element_007": {
+      "type": "Progress",
+      "value": {
+        "forceValue": " ",
+        "maximum": 250000,
+        "minimum": 0,
+        "title": "<FONT SIZE='12'><FONT COLOR='#A9D0F5'>현재 단계 재련 경험치</FONT></FONT>",
+        "value": 0,
+        "valueType": 1
+      }
+    },
+    "Element_008": {
+      "type": "ItemPartBox",
+      "value": {
+        "Element_000": "<FONT COLOR='#A9D0F5'>세트 효과 레벨</FONT>",
+        "Element_001": "사멸 <FONT COLOR='#FFD200'>Lv.3</FONT>"
+      }
+    },
+    "Element_009": {
+      "type": "IndentStringGroup",
+      "value": {
+        "Element_000": {
+          "contentStr": {
+            "Element_000": {
+              "bPoint": false,
+              "contentStr": "<font size='12'>사멸 (검)</font> [<FONT COLOR='#FFD200'>Lv.3</FONT>]"
+            },
+            "Element_001": {
+              "bPoint": false,
+              "contentStr": "<font size='12'>사멸 (머리 방어구)</font> [<FONT COLOR='#FFD200'>Lv.3</FONT>]"
+            },
+            "Element_002": {
+              "bPoint": false,
+              "contentStr": "<font size='12'>사멸 (상의)</font> [<FONT COLOR='#FFD200'>Lv.3</FONT>]"
+            },
+            "Element_003": {
+              "bPoint": false,
+              "contentStr": "<font size='12'>사멸 (하의)</font> [<FONT COLOR='#FFD200'>Lv.3</FONT>]"
+            },
+            "Element_004": {
+              "bPoint": false,
+              "contentStr": "<font size='12'>사멸 (장갑)</font> [<FONT COLOR='#FFD200'>Lv.3</FONT>]"
+            },
+            "Element_005": {
+              "bPoint": false,
+              "contentStr": "<font size='12'>사멸 (어깨 방어구)</font> [<FONT COLOR='#FFD200'>Lv.3</FONT>]"
+            }
+          },
+          "topStr": "<font size='14'><font color='#91fe02'>사멸</font></font>"
+        },
+        "Element_001": {
+          "contentStr": {
+            "Element_000": {
+              "bPoint": true,
+              "contentStr": "<font size='12'><font color='#ffffff'>치명타 피해가 <FONT COLOR='#99FF99'>22%</FONT> 증가한다.<BR>백어택 및 헤드어택 공격 적중 시 치명타 피해 증가 수치가 <FONT COLOR='#99FF99'>65%</FONT>로 적용된다.</font></font>"
+            }
+          },
+          "topStr": "<font size='14'><font color='#91fe02'>2 세트 효과<BR>[<font size='14'><font color='#aaaaaa'>Lv.1 / Lv.2 / <FONT COLOR='#FFD200'>Lv.3</FONT></font></font>]</font></font>"
+        },
+        "Element_002": {
+          "contentStr": {
+            "Element_000": {
+              "bPoint": true,
+              "contentStr": "<font size='12'><font color='#ffffff'>치명타 적중률이 <FONT COLOR='#99FF99'>22%</FONT> 증가한다.</font></font>"
+            }
+          },
+          "topStr": "<font size='14'><font color='#91fe02'>4 세트 효과<BR>[<font size='14'><font color='#aaaaaa'>Lv.1 / Lv.2 / <FONT COLOR='#FFD200'>Lv.3</FONT></font></font>]</font></font>"
+        },
+        "Element_003": {
+          "contentStr": {
+            "Element_000": {
+              "bPoint": true,
+              "contentStr": "<font size='12'><font color='#ffffff'>적에게 주는 피해가 <FONT COLOR='#99ff99'>9%</FONT> 증가한다.<BR>백어택 및 헤드어택 공격 적중 시 적에게 주는 피해 수치가 <FONT COLOR='#99ff99'>26%</FONT>로 적용된다.</font></font>"
+            }
+          },
+          "topStr": "<font size='14'><font color='#91fe02'>6 세트 효과<BR>[<font size='14'><font color='#aaaaaa'>Lv.1 / Lv.2 / <FONT COLOR='#FFD200'>Lv.3</FONT></font></font>]</font></font>"
+        }
+      }
+    },
+    "Element_010": {
+      "type": "SingleTextBox",
+      "value": "<FONT SIZE='12'><FONT COLOR='#C24B46'>분해불가</FONT></FONT>"
+    },
+    "Element_011": {
+      "type": "SingleTextBox",
+      "value": "<Font color='#5FD3F1'>[세트 업그레이드] 대도시 - 세트 장비 관리</font>"
+    },
+    "Element_012": {
+      "type": "ShowMeTheMoney",
+      "value": "<FONT SIZE='12'><FONT COLOR='#FFFFFF'>내구도 <FONT COLOR='#FFFFFF'>102 / 175</FONT></FONT></FONT>|"
+    }
+  },
+  "1": {
+    "Element_000": {
+      "type": "NameTagBox",
+      "value": "<P ALIGN='CENTER'><FONT COLOR='#E3C7A1'>거룩한 선지자의 목걸이</FONT></P>"
+    },
+    "Element_001": {
+      "type": "ItemTitle",
+      "value": {
+        "bEquip": 0,
+        "leftStr0": "<FONT SIZE='12'><FONT COLOR='#E3C7A1'>고대 목걸이</FONT></FONT>",
+        "leftStr1": "<FONT SIZE='14'>품질</FONT>",
+        "leftStr2": "<FONT SIZE='14'>아이템 티어 3</FONT>",
+        "qualityValue": 86,
+        "rightStr0": "<FONT SIZE='12'><FONT COLOR='#FFD200'>장착중</FONT></FONT>",
+        "slotData": {
+          "advBookIcon": 0,
+          "battleItemTypeIcon": 0,
+          "cardIcon": false,
+          "friendship": 0,
+          "iconGrade": 6,
+          "iconPath": "https://cdn-lostark.game.onstove.com/efui_iconatlas/acc/acc_204.png",
+          "imagePath": "",
+          "islandIcon": 0,
+          "rtString": "",
+          "seal": false,
+          "temporary": 0,
+          "town": 0,
+          "trash": 0
+        }
+      }
+    },
+    "Element_002": {
+      "type": "SingleTextBox",
+      "value": "<FONT SIZE='12'>캐릭터 귀속됨<BR>거래 <FONT COLOR='#FFD200'>2</FONT>회 가능<BR><FONT COLOR='#C24B46'>거래 제한 아이템 레벨</FONT> 1540</FONT>"
+    },
+    "Element_003": {
+      "type": "MultiTextBox",
+      "value": "|거래가능"
+    },
+    "Element_004": {
+      "type": "ItemPartBox",
+      "value": {
+        "Element_000": "<FONT COLOR='#A9D0F5'>기본 효과</FONT>",
+        "Element_001": "<FONT COLOR='#686660'>힘 +12546</FONT><BR>민첩 +12546<BR><FONT COLOR='#686660'>지능 +12546</FONT><BR>체력 +3308"
+      }
+    },
+    "Element_005": {
+      "type": "ItemPartBox",
+      "value": {
+        "Element_000": "<FONT COLOR='#A9D0F5'>추가 효과</FONT>",
+        "Element_001": "치명 +497<BR>특화 +476"
+      }
+    },
+    "Element_006": {
+      "type": "IndentStringGroup",
+      "value": {
+        "Element_000": {
+          "contentStr": {
+            "Element_000": {
+              "bPoint": 0,
+              "contentStr": "[<FONT COLOR='#FFFFAC'>슈퍼 차지</FONT>] 활성도 +6<BR>",
+              "pointType": 2
+            },
+            "Element_001": {
+              "bPoint": 0,
+              "contentStr": "[<FONT COLOR='#FFFFAC'>저주받은 인형</FONT>] 활성도 +3<BR>",
+              "pointType": 2
+            },
+            "Element_002": {
+              "bPoint": 0,
+              "contentStr": "[<FONT COLOR='#FE2E2E'>공격력 감소</FONT>] 활성도 +2<BR>",
+              "pointType": 2
+            }
+          },
+          "topStr": "<FONT SIZE='12' COLOR='#A9D0F5'>무작위 각인 효과</FONT>"
+        }
+      }
+    },
+    "Element_007": {
+      "type": "SingleTextBox",
+      "value": "<FONT SIZE='12'><FONT COLOR='#C24B46'>품질 업그레이드 불가</FONT></FONT>"
+    },
+    "Element_008": {
+      "type": "SingleTextBox",
+      "value": "<Font color='#5FD3F1'>[가디언 토벌] 소나벨</font><BR><Font color='#5FD3F1'>[가디언 토벌] 가르가디스</font>"
+    }
+  },
+  "2": {
+    "Element_000": {
+      "type": "NameTagBox",
+      "value": "잔재된 기운"
+    },
+    "Element_001": {
+      "type": "EngraveSkillTitle",
+      "value": {
+        "forceMiddleText": "블레이드 전용",
+        "leftText": "<FONT COLOR='#F5ECCE'><img src='emoticon_tooltip_engrave_point' width='20' height='20' vspace='-7'></img>각인 활성 포인트 +12</FONT>",
+        "name": "직업",
+        "rightText": "",
+        "slotData": {
+          "iconGrade": 0,
+          "iconPath": "https://cdn-lostark.game.onstove.com/efui_iconatlas/ability/ability_209.png",
+          "imagePath": ""
+        }
+      }
+    },
+    "Element_002": {
+      "type": "SingleTextBox",
+      "value": "장착 시, 캐릭터에 <FONT COLOR='#FFFFAC'>잔재된 기운</FONT> 각인의 각인 활성 포인트를 <FONT COLOR='#FFD200'>12</FONT>만큼 부여합니다."
+    },
+    "Element_003": {
+      "type": "ItemPartBox",
+      "value": {
+        "Element_000": "<font color='#A9D0F5'>레벨 별 효과보기</font>",
+        "Element_001": "<font color='#686660'>레벨 1 (활성도 5) - 아츠 발동 시 2초 동안 아츠 게이지가 감소되지 않으며 버스트 사용 시 버스트 단계에 따라 30초 동안 공격/이동속도 6% 및 공격력이 12%, 24%, 36% 증가한다.</font><BR><font color='#686660'>레벨 2 (활성도 10) - 아츠 발동 시 2초 동안 아츠 게이지가 감소되지 않으며 버스트 사용 시 버스트 단계에 따라 30초 동안 공격/이동속도 9% 및 공격력이 14%, 28%, 42% 증가한다.</font><BR><font color='#686660'>레벨 3 (활성도 15) - 아츠 발동 시 2초 동안 아츠 게이지가 감소되지 않으며 버스트 사용 시 버스트 단계에 따라 30초 동안 공격/이동속도 12% 및 공격력이 18%, 36%, 54% 증가한다.</font>"
+      }
+    },
+    "Element_004": {
+      "type": "BlinkLine",
+      "value": 8
+    }
+  }
+}
